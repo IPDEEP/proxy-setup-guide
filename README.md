@@ -47,3 +47,71 @@ IPDEEP官网：https://www.ipdeep.cn/
 
 **动态住宅代理套餐**
 
+| 套餐规格 | 有效期 | 价格 | 购买链接 |
+| :---: | :---: | :---: | :---: |
+| 500MB | 15天 | 免费 | [找客服领取](https://www.ipdeep.cn/?extendid=1c76MTAxMjI1OTI0MzA1NzYyMTIzODQ2) |
+| 5GB | 30天 | $6.5 | [立即购买](https://user.ipdeep.cn/?extendid=1c76MTAxMjI1OTI0MzA1NzYyMTIzODQ2) |
+| 10GB | 180天 | $11.5 | [立即购买](https://user.ipdeep.cn/?extendid=1c76MTAxMjI1OTI0MzA1NzYyMTIzODQ2) |
+| 100GB | 360天 | $75 | [立即购买](https://user.ipdeep.cn/?extendid=1c76MTAxMjI1OTI0MzA1NzYyMTIzODQ2) |
+| 500GB | 720天 | $337.5 | [立即购买](https://user.ipdeep.cn/?extendid=1c76MTAxMjI1OTI0MzA1NzYyMTIzODQ2) |
+| 1TB | 1080天 | $600 | [立即购买](https://user.ipdeep.cn/?extendid=1c76MTAxMjI1OTI0MzA1NzYyMTIzODQ2) |
+| 10TB | 1800天 | $5250 | [立即购买](https://user.ipdeep.cn/?extendid=1c76MTAxMjI1OTI0MzA1NzYyMTIzODQ2) |
+
+[大客户定制请点击这里](https://www.ipdeep.cn/?extendid=1c76MTAxMjI1OTI0MzA1NzYyMTIzODQ2)
+
+**移动代理套餐**
+
+| 套餐规格 | 有效期 | 价格 | 购买链接 |
+| :---: | :---: | :---: | :---: |
+| 1GB | 30天 | $5 | [立即购买](https://user.ipdeep.cn/?extendid=1c76MTAxMjI1OTI0MzA1NzYyMTIzODQ2) |
+| 10GB | 180天 | $37.5 | [立即购买](https://user.ipdeep.cn/?extendid=1c76MTAxMjI1OTI0MzA1NzYyMTIzODQ2) |
+| 100GB | 360天 | $249 | [立即购买](https://user.ipdeep.cn/?extendid=1c76MTAxMjI1OTI0MzA1NzYyMTIzODQ2) |
+| 500GB | 720天 | $1125 | [立即购买](https://user.ipdeep.cn/?extendid=1c76MTAxMjI1OTI0MzA1NzYyMTIzODQ2) |
+| 1TB | 1080天 | $2000 | [立即购买](https://user.ipdeep.cn/?extendid=1c76MTAxMjI1OTI0MzA1NzYyMTIzODQ2) |
+| 10TB | 1800天 | $17500 | [立即购买](https://user.ipdeep.cn/?extendid=1c76MTAxMjI1OTI0MzA1NzYyMTIzODQ2) |
+
+[大客户定制请点击这里](https://www.ipdeep.cn/?extendid=1c76MTAxMjI1OTI0MzA1NzYyMTIzODQ2)
+
+## IPDEEP测评
+根据以往用户以及第三方企业的反馈，IPDEEP在代理IP服务领域表现尤为突出。
+
+**7*24小时售后**
+
+IPDEEP的客服响应速度非常快，通常在15秒内就会有人工客户接入。售后团队会解决用户关于IP方面的一切疑问，还可以定制化套餐价格。
+
+**性价比分析**
+
+IPDEEP的价格在市场上极具性价比，低价格高质量的IP深受用户喜爱。静态IP最低$1.3/个，动态IP低至$0.5/GB。与行业内其他代理商如BrightData、IPRoyal等相比，IPDEEP在提供相同服务质量的同时价格远低于同行。
+
+**IP质量与覆盖范围**
+
+IPDEEP拥有超3000万+IP池资源，覆盖全球200+国家和城市，包括但不限于热门地区：美国、日本、英国、中国香港、韩国、越南、巴西等主要区域。所有IP都是基于业务优化的独立专用IP，不会重复利用，保证IP纯净度。
+
+**适用场景**
+
+根据用户反馈显示，IPDEEP特别适合社媒多账号（TikTok、Facebook、Instagram、X、Linkedln等）、跨境电商多店铺、市场数据采集、SEO监控、广告验证等业务场景。适配各类指纹浏览器、云手机、AI工具等，可大幅降低账号关联风险。
+
+**推荐指数：⭐⭐⭐⭐⭐**
+
+综合评测显示，IPDEEP在代理质量、价格竞争力、客服响应、稳定性等方面均表现优异。特别适合追求性价比、需要大量纯净IP资源等方面的跨境从业者。
+
+更多IPDEEP用户评价与详细测评: [点击查看](https://www.ipdeep.cn/?extendid=1c76MTAxMjI1OTI0MzA1NzYyMTIzODQ2)
+
+## IP纯净度检测工具推荐
+
+**ToDetect**
+
+官网：https://www.todetect.cn/
+
+![ToDetect官网](https://ipdeepblog-new.oss-cn-shenzhen.aliyuncs.com/article/todetect_1_c70bf243b5.png)
+
+**Ping0**
+
+官网：https://ping0.cc/
+
+**ippure**
+
+官网：https://ippure.com/
+
+-------------------------------------------------
+**注：**所有价格和优惠信息以IPDEEP 官网实时公布为准，建议在购买前联系客服确认最新优惠活动。
